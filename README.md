@@ -1,2 +1,2 @@
-# Curso GitHub
- Primeiro repositorio
+# Curso GitHub, Óla, Mundo!
+ Inicialização do Curso de Git e GitHub.
